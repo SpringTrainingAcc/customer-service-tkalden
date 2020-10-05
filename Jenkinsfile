@@ -1,5 +1,5 @@
 def args = [:]
-args.CLUSTER_NAME = "https://172.30.0.1:443"
+args.CLUSTER_NAME = ""
 args.PROJECT_NAME = "oc-springtraining"
 args.SERVICE_NAME = "customer-service-tkalden"
 args.SERVICE_VERSION = "0.0.1-SNAPSHOT"
